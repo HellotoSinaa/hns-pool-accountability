@@ -25,6 +25,7 @@ This is not a place for personal attacks. It is a factual, evidence-based ledger
 | 6Block | ✅ Active | — | — | — | [Details](data/pools/6block.md) |
 | Poolflare | ✅ Active | — | — | — | [Details](data/pools/poolflare.md) |
 | W Pool | ⚠️ Unknown | — | — | — | [Details](data/pools/wpool.md) |
+| DX Pool| ⚠️ Unknown |
 
 > **Legend:** ✅ Active & Loyal | ❌ Exited During Downturn | ⚠️ Unknown/Unverified | 🔄 Returned After Exit
 
