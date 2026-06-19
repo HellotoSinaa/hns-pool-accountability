@@ -20,7 +20,7 @@ This is not a place for personal attacks. It is a factual, evidence-based ledger
 
 | Pool | Status | Exit Date | HNS Price at Exit | Returned? | Evidence |
 |------|--------|-----------|-------------------|-----------|----------|
-| ViaBTC | ❌ Exited | 2023 | Low period | No | [Details](data/pools/viabtc.md) |
+| ViaBTC | ❌ Exited | 2026 | Low period | No | [Details](data/pools/viabtc.md) |
 | F2Pool | ✅ Active | — | — | — | [Details](data/pools/f2pool.md) |
 | 6Block | ✅ Active | — | — | — | [Details](data/pools/6block.md) |
 | Poolflare | ✅ Active | — | — | — | [Details](data/pools/poolflare.md) |
