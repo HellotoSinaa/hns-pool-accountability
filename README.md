@@ -93,9 +93,7 @@ This repository contains factual, community-sourced information about publicly o
 
 ## 🌐 Community
 
-- Handshake Discord: https://discord.gg/V3aTrkp
-- HNS Forum: https://community.handshake.org
-- Namebase: https://www.namebase.io
+- HNS Forum: https://handshake.org
 
 ---
 
