@@ -55,7 +55,7 @@ ViaBTC was one of the major mining pools supporting HNS during early network gro
 
 - ViaBTC has not re-listed HNS mining as of the last update to this file
 - No official statement was made regarding their exit from HNS
-- Miners looking for alternatives should consider pools that maintained support through the downturn (see [README](../../README.md))
+- Miners looking for alternatives should consider pools that maintained support through the downturn (see [README](https://github.com/HellotoSinaa/hns-pool-accountability/commit/d410b1db8c03e39fc2a88d331498eb5d5e660000))
 
 ---
 
