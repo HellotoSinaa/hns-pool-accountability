@@ -20,15 +20,15 @@ This is not a place for personal attacks. It is a factual, evidence-based ledger
 
 | Pool | Status | Exit Date | HNS Price at Exit | Returned? | Evidence |
 |------|--------|-----------|-------------------|-----------|----------|
-| ViaBTC | ❌ Exited | 2023 | Low period | No | [Details](data/pools/viabtc.md) |
-| F2Pool | ✅ Active | — | — | — | [Details](data/pools/f2pool.md) |
-| 6Block | ✅ Active | — | — | — | [Details](data/pools/6block.md) |
-| Antpool | ✅ Active | — | — | — | [Details](data/pools/antpool.md) |
-| DX Pool | ✅ Active | — | — | — | [Details](data/pools/dxpool.md) |
-| HashPool | ⚠️ Unknown | — | — | — | [Details](data/pools/hashpool.md) |
-| Poolin | ⚠️ Unknown | — | — | — | [Details](data/pools/poolin.md) |
-| uu Pool | ⚠️ Unknown | — | — | — | [Details](data/pools/uupool.md) |
-| Poolflare | ⚠️ Unknown | — | — | — | [Details](data/pools/poolflare.md) |
+| ViaBTC | ❌ Exited | 2023 | Low period | No | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/viabtc.md) |
+| F2Pool | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/f2pool.md) |
+| 6Block | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/6block.md) |
+| Antpool | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/antpool.md) |
+| DX Pool | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/dxpool.md) |
+| HashPool | ⚠️ Unknown | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/hashpool.md) |
+| Poolin | ⚠️ Unknown | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/poolin.md) |
+| uu Pool | ⚠️ Unknown | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/uupool.md) |
+| Poolflare | ⚠️ Unknown | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/poolflare.md) |
 
 > **Legend:** ✅ Active & Loyal | ❌ Exited During Downturn | ⚠️ Unknown/Unverified | 🔄 Returned After Exit
 
@@ -72,7 +72,7 @@ hns-pool-accountability/
 
 ## 📣 How to Submit a Report
 
-1. **Open an Issue** using the [Pool Event Report](.github/ISSUE_TEMPLATE/pool-report.md) template
+1. **Open an Issue** using the [Pool Event Report](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/pool-report.md) template
 2. Include verifiable evidence (announcements, hashrate charts, dates)
 3. A maintainer will review and add it to the appropriate pool file
 4. Pull Requests with evidence are also welcome
@@ -83,9 +83,9 @@ hns-pool-accountability/
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+See [CONTRIBUTING.md](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/CONTRIBUTING.md) for full guidelines.
 
-Community members who contribute verified reports are listed in [CONTRIBUTORS.md](CONTRIBUTORS.md).
+Community members who contribute verified reports are listed in [CONTRIBUTORS.md](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/CONTRIBUTORS.md).
 
 ---
 
@@ -97,9 +97,8 @@ This repository contains factual, community-sourced information about publicly o
 
 ## 🌐 Community
 
-- Handshake Discord: https://discord.gg/V3aTrkp
-- HNS Forum: https://community.handshake.org
-- Namebase: https://www.namebase.io
+- HNS Forum: https://handshake.org
+
 
 ---
 
