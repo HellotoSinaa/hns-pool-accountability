@@ -20,7 +20,7 @@ This is not a place for personal attacks. It is a factual, evidence-based ledger
 
 | Pool | Status | Exit Date | HNS Price at Exit | Returned? | Evidence |
 |------|--------|-----------|-------------------|-----------|----------|
-| ViaBTC | ❌ Exited | 2023 | Low period | No | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/viabtc.md) |
+| ViaBTC | ❌ Exited | 2026 | Low period | No | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/viabtc.md) |
 | F2Pool | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/f2pool.md) |
 | 6Block | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/6block.md) |
 | Antpool | ✅ Active | — | — | — | [Details](https://github.com/HellotoSinaa/hns-pool-accountability/blob/main/antpool.md) |
